@@ -1,3 +1,11 @@
+# Descripción de la Aplicación
+
+La aplicación se encargará de llevar a cabo el control de E/S de los empleados de la empresa, controlando su ubicación e IP, así como el horario en el que se picó la E/S para llevar a cabo un control exacto de las horas trabajadas (tanto las horas pertenecientes a su jornada como las horas extras).
+
+Por otra parte, la aplicación tendrá un control de las piezas producidas por la empresa, así como del empleado que la realizó y la hora, para tener controlada la producción y el trabajo individual de cada trabajador.
+
+Por último se podrá picar el ID de la pieza para saber que tratamientos térmicos se le realizó a la misma, para saber si cumple con los estándares de calidad.
+
 # Requisitos de la Aplicación
 
 ## Tareas que mi proyecto llevará a cabo:
